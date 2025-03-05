@@ -1,4 +1,3 @@
-package pyq.primeCoding;
 import java.util.*;
 
 public class secondSmallest {

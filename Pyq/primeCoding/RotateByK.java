@@ -1,4 +1,3 @@
-package pyq.primeCoding;
 import java.util.*;
 public class RotateByK{
 	public static void main(String[] args){
